@@ -52,7 +52,7 @@ TaskTracker/
 1. Clone this repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Vikash1705/Python-Task-Tracker
 ```
 
 2. Navigate to the project directory:
